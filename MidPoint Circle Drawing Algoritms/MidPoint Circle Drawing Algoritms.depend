@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1740600376 source:e:\masum's msi\code blocks\basic problem solving\midpoint circle drawing algoritms\main.cpp
+	<iostream>
+	<graphics.h>
+	<math.h>
+	<windows.h>
+
